@@ -1,5 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Environments
 
+Dev: localhost:3000
+### `npm start`
+  
+Prod: localhost:5000
+### `npm run build`
+### `serve -s build`
+  
 ## Available Scripts
 
 In the project directory, you can run:
