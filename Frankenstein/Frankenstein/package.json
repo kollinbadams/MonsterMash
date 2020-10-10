@@ -1,9 +1,0 @@
-{
-  "name": "frankenstein",
-  "version": "0.0.0",
-  "description": "Frankenstein",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
