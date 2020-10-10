@@ -1,11 +1,11 @@
 ## Environments
 
-Dev: localhost:3000
-Command:
+### Dev: localhost:3000
+### Command:
   ### `npm start`
   
-Prod: localhost:5000
-Command(s):
+### Prod: localhost:5000
+### Command(s):
   ### `npm run build`
   ### `serve -s build`
   
