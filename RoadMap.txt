@@ -3,5 +3,9 @@
 Checkin/Create Repo...[x]
 Servers...[x]
 Database setup
-simple form to test crud on db
+  simple form to test crud on db
 automation setup
+container setup
+  launch scripts
+  shutdown scripts
+Authentication - OIDC
